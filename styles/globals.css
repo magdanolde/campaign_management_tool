@@ -1,0 +1,15 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --color-alpha: #898BB3;
+    --color-beta: #FFFFFF;
+    --color-gamma: #F2F2F6;
+    --color-omega: #FF1053;
+    --color-mu: #36B5B0;
+    --color-delta: #000000;
+
+  }
